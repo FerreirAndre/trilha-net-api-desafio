@@ -12,7 +12,7 @@ using TrilhaApiDesafio.Context;
 namespace TrilhaApiDesafio.Migrations
 {
     [DbContext(typeof(OrganizadorContext))]
-    [Migration("20221108145422_CriacaoTabelaTarefas")]
+    [Migration("20221109034204_CriacaoTabelaTarefas")]
     partial class CriacaoTabelaTarefas
     {
         /// <inheritdoc />
